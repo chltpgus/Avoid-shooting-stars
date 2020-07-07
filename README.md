@@ -1,12 +1,12 @@
 # Avoid-shooting-stars (별똥별 피하기 게임)
 
-#작품 설명
+# 작품 설명
 Microsoft Visual C++ 2010 Express CPP소스파일로 제작한 간단한 플레시
 사방에서 떨어지는 별똥별을 피하여 생존하여 랭킹을 등록하는 게임이다.
 
 ![image](https://user-images.githubusercontent.com/67909892/86742455-1b4ca000-c073-11ea-9c35-e87a31fd71e3.png)
 
-#게임 설명
+# 게임 설명
 게임 실행시 메뉴화면이 출력된다. 메뉴에는 1. 게임시작. 2. 게임설명, 3. 게임랭킹, 4. 게임종료 4가지 메뉴가 있다.
 게임랭킹은 파일을 사용하여 Avoid-shooting-stars\test\sample.txt에 저장되고 게임 내에서도 확인할 수 있다.
 
